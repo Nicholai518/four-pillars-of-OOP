@@ -6,10 +6,13 @@
 - Inheritance
 - Encapsulation
 
+## Interview Question
+- What are the 4 primary concepts / pillars of Object Oriented Programming?
+
 ## Motivation
 - This is a great interview question I have been asked. I wanted a project to reference.
 
 ## Tech Stack
-- Java
+- Java 17
 - Intellij IDEA
 - Windows 10
